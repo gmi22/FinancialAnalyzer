@@ -1,7 +1,7 @@
 ### Description
 
 
-FinancialAnalyzer is a Tkinter app that produces an excel file with financial statement analysis of chosen publicly traded company by using a python library xlwings. The visualizations are made only using excels native graphing capabilities. The file is then saved in the Downloads folder on your computer.
+FinancialAnalyzer is a Tkinter app that produces an excel file with financial statement analysis of chosen publicly traded company by using the python library xlwings. The visualizations are made only using excels native graphing capabilities. The file is then saved in the Downloads folder on your computer.
 
 ![image](https://user-images.githubusercontent.com/67132647/192934728-50463eb6-5dff-40fd-86a8-d0099f806928.png)
 

@@ -37,7 +37,7 @@ response_bs = requests.get("https://financialmodelingprep.com/api/v3/balance-she
 
 ![image](https://user-images.githubusercontent.com/67132647/192931578-5827817a-cbab-453f-81ac-33bd1ca24371.png)
 
-4. After hitting the Show Analysis button the excel sheet will appear in the Downloads folder as company_analysis.xlsx
+4. After hitting the Show Analysis button the excel sheet will appear in the Downloads folder as company_Analysis.xlsx
 
 
 
